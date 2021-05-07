@@ -1,0 +1,19 @@
+.five_container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background: #ffffff;
+  padding-bottom: 120px;
+}
+.five_title {
+  padding-top: 120px;
+  color: #3d4f9f;
+}
+.five_photo {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  width: 500px;
+  padding-top: 70px;
+}

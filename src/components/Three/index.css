@@ -1,0 +1,30 @@
+.container_three {
+  background: #f5f8ff;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 200px;
+  width: 1400px;
+  margin-left: 60px;
+}
+.block_three {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #ffffff;
+  width: 980px;
+  height: 250px;
+  margin-left: 220px;
+  padding-top: 50px;
+  margin-top: 80px;
+}
+.block_text {
+  text-align: center;
+  padding-top: 80px;
+  color: #3d4f9f;
+}
+.text {
+  padding-right: 50px;
+  width: 800px;
+}

@@ -1,0 +1,18 @@
+.six_block {
+  background: linear-gradient(229.32deg, #6888ff 12.77%, #5e80ff 73.11%);
+  width: 1400px;
+  justify-content: center;
+  margin-left: 60px;
+}
+.six_content {
+  justify-content: center;
+  text-align: center;
+  padding-top: 80px;
+  color: #ffffff;
+  font-family: Quicksand;
+  font-style: normal;
+}
+.six_photo {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}

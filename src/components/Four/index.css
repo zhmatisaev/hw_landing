@@ -1,0 +1,13 @@
+.four_container {
+  display: flex;
+  justify-content: center;
+  width: 1400px;
+  margin-left: 60px;
+  text-align: center;
+  align-items: center;
+  background: linear-gradient(180deg, #eaf0ff 0%, #f6f9ff 100%);
+  padding-top: 100px;
+}
+.Four_photo {
+  padding-right: 50px;
+}

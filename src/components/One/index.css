@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0;
+  flex-wrap: wrap;
+  flex-direction: column;
+  /* margin-bottom: 150px; */
+}
+.one-bl2 {
+  display: flex;
+  height: 776px;
+  color: #8d96bd;
+  min-width: 1400px;
+  background: #f5f8ff;
+}
+
+.in-one-bl2 {
+  width: 400px;
+  padding: 208px 0 0 120px;
+}
+.in-one-bl b {
+  font-weight: 500px;
+  font-size: 10px;
+  line-height: 12px;
+  color: #3d4f9f;
+}
+.two-bl {
+  padding-top: 120px;
+}
